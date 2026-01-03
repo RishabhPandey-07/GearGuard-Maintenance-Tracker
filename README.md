@@ -109,7 +109,8 @@ gearguard/
 ├── start.bat                  # Windows startup
 ├── start.sh                   # Linux/Mac startup
 └── README.md                  # This file
-```
+``
+
 
 ## 🎯 Core Workflows
 

@@ -11,7 +11,7 @@ import pandas as pd
 from database import Database
 from utils import *
 
-# Page Configuration
+
 st.set_page_config(
     page_title="GearGuard - Maintenance Management",
     page_icon="🛠️",
